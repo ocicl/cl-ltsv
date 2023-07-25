@@ -1,0 +1,10 @@
+* cl-ltsv
+
+LTSV parser for common lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/taksatou/cl-ltsv.git   |
+| commit  | 3646a33  |
+| systems | cl-ltsv |
+|---------+-------------------------------------------|
+
